@@ -12,6 +12,7 @@ namespace TestConsoleApplication
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello git hub");
+			Console.WriteLine("This is master");
 			Console.ReadKey();
 		}
 	}
