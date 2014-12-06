@@ -14,7 +14,7 @@ namespace TestConsoleApplication
 			var test = new TestClass();
 			test.Test();
 			Console.WriteLine("Hello git hub");
-			Console.WriteLine("Create new branch");
+			Console.WriteLine("Create new branch before close");
 			Console.ReadKey();
 		}
 	}
